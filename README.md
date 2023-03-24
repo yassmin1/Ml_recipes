@@ -1,2 +1,2 @@
 # ml_recipes
-easy way to import your favouait functions
+Easy way to import your favourite functions
